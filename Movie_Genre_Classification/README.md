@@ -1,7 +1,7 @@
 # Plot-based movie genre classification using Machine Learning
 
-This project consists in classifying movies in terms of genre by analyzing their plots using NLP techniques and Machine Learning.
-Two types of classification tasks were performed: multiclass and binary. Further details can be found in the header of the notebook file.
+This project consists in classifying movies in terms of genre by analyzing their plots using NLP techniques and Machine Learning. Two types of classification tasks were performed: multiclass and binary.
+The chosen dataset can be found at https://www.kaggle.com/jrobischon/wikipedia-movie-plots. This dataset contains plots (scraped from Wikipedia) of 34886 movies from many nationalities. Further details can be found in the header of the notebook file.
 
 This directory contains the following files:
 - text_classification_movie_genres.ipynb -> the notebook which contains all the performed experiments for movie genre classification along with corresponding descriptions and analyses;
